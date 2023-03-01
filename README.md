@@ -1,2 +1,2 @@
 # insira-um-nome
-colocando em prática o que estou aprendendo!
+colocando em prática alguns recursos
